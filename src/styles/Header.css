@@ -1,0 +1,17 @@
+.header{border: 2px solid lightgray;
+display: flex;
+justify-content: space-between;
+padding-right: 40px;
+padding-left: 50px;}
+
+.header h3{color: #009432;}
+
+.header .search, .header .menu{
+font-size: 30px;}
+
+.header .icon{
+display: flex;
+align-items: center;
+gap: 12px;
+cursor: pointer;}
+

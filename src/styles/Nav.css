@@ -1,0 +1,19 @@
+.nav{background-color: black;
+color: whitesmoke;
+padding: 2px 0px;
+height: 60px;
+}
+
+.nav ul{
+display: flex;
+justify-content: space-around;
+font-size: 18px;
+list-style: none;
+cursor: pointer;
+}
+
+li:hover{border-bottom: 1px solid gray;
+color: grey;
+padding-bottom: 5px;}
+
+
